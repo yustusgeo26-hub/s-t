@@ -1,0 +1,7 @@
+rich
+python-whois
+dnspython
+phonenumbers
+Pillow
+exifread
+email-validator
